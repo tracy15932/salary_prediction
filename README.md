@@ -1,1 +1,1 @@
-# salary_prediction
+# Salary Prediction Based on Job Description
