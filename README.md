@@ -1,1 +1,3 @@
-# Salary Prediction Based on Job Description
+## Salary Prediction Project (Python)
+
+### Goal
